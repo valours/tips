@@ -1,4 +1,3 @@
-# tricks--t-j-s
 ## Affectation
 ```typescript
 // Before
